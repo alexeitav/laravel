@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Alexei
+        psr4_prefix: Alexei
+        src_path: app
